@@ -116,7 +116,8 @@ Have fun using the Student Grade Calculator to determine your average percentage
 Note: This program uses a simple grading scale for illustrative purposes. In real-world scenarios, grading scales can vary based on institutions or organizations.
 
 
-.
+![image](https://github.com/user-attachments/assets/d4721e71-6d26-451e-974a-c6fe1dd4bbb5)
+
 
 
 Task 3 : ATM Interface
