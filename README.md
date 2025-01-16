@@ -1,6 +1,9 @@
 CODSOFT JAVA INTERNSHIP
 
 
+
+
+
 Task 1: Number Guessing Game
 Welcome to the Number Guessing Game! In this game, you will have the opportunity to guess a random number within a specified range. Try to guess the number correctly within the given number of attempts. Let's see how skilled you are at guessing!
 
@@ -48,6 +51,9 @@ Do you want to play another round? (yes/no): NO
 Thank you for playing! Your final score: 6
 
 
+
+
+
 Task 2: Student Grade Calculator
 Welcome to the Student Grade Calculator! This program allows you to calculate your average percentage and corresponding grade based on the marks obtained in each subject.
 
@@ -83,6 +89,9 @@ Follow the prompts to input the marks and calculate the grade.
 Have fun using the Student Grade Calculator to determine your average percentage and grade based on your marks!
 
 Note: This program uses a simple grading scale for illustrative purposes. In real-world scenarios, grading scales can vary based on institutions or organizations.
+
+
+
 
 
 Task 3 : ATM Interface
