@@ -67,7 +67,8 @@ Do you want to play another round? (yes/no): no
 
 Thank you for playing! Your final score: 6
 
-.
+![image](https://github.com/user-attachments/assets/234f0989-b7fc-41e0-a7b1-f33d2932bd10)
+
 
   
 TASK 2: Student Grade Calculator
