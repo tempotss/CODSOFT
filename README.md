@@ -145,3 +145,6 @@ Check Balance
 Deposit
 Withdraw
 Exit Select an option: 3 Enter withdrawal amount: $800 Withdrawal of $800.0 successful. Current balance: $400.0
+
+
+![image](https://github.com/user-attachments/assets/2c428566-6b50-4287-b4d2-f1dc13ad4425)
